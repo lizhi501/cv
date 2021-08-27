@@ -1,0 +1,20 @@
+body {
+    background-color: #EAF6F6;
+    font-family:'Courier New', Courier, monospace;
+    color: #144D53;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: thick;
+    border-color: #307672;
+    width: 3%;
+} 
+
+h1{
+    color: #1A3C40;
+    
+}
+h3 {
+    color: #307672;
+}
